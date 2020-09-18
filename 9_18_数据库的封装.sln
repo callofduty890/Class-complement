@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_运算符的重载", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_析构函数", "03_析构函数\03_析构函数.csproj", "{77C9B78E-49F4-48A2-BE60-F06F56279DC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_连接数据库", "04_连接数据库\04_连接数据库.csproj", "{749D1115-8348-47B3-A634-59540B1EE634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{77C9B78E-49F4-48A2-BE60-F06F56279DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77C9B78E-49F4-48A2-BE60-F06F56279DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77C9B78E-49F4-48A2-BE60-F06F56279DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749D1115-8348-47B3-A634-59540B1EE634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749D1115-8348-47B3-A634-59540B1EE634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749D1115-8348-47B3-A634-59540B1EE634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749D1115-8348-47B3-A634-59540B1EE634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
