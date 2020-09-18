@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_析构函数", "03_析�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_连接数据库", "04_连接数据库\04_连接数据库.csproj", "{749D1115-8348-47B3-A634-59540B1EE634}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_数据库_增删查改", "05_数据库_增删查改\05_数据库_增删查改.csproj", "{391E42FA-2E52-436B-88B9-A6961F1FD20F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{749D1115-8348-47B3-A634-59540B1EE634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{749D1115-8348-47B3-A634-59540B1EE634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{749D1115-8348-47B3-A634-59540B1EE634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391E42FA-2E52-436B-88B9-A6961F1FD20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391E42FA-2E52-436B-88B9-A6961F1FD20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391E42FA-2E52-436B-88B9-A6961F1FD20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391E42FA-2E52-436B-88B9-A6961F1FD20F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
